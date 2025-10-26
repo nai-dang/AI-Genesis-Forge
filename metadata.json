@@ -1,0 +1,7 @@
+{
+  "name": "AI Genesis Forge",
+  "description": "An all-in-one AI-powered assistant to guide you through the entire lifecycle of building, launching, and monetizing your own AI applications. From brainstorming and market research to coding, debugging, and strategic marketing, this app is your dedicated partner for success.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
